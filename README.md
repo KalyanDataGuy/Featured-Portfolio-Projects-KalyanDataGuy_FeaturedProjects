@@ -1,10 +1,25 @@
-# Featured-Portfolio-Projects-KalyanDataGuy_FeaturedProjects
-Applied analytics projects demonstrating end-to-end data analysis
 # Featured Portfolio Projects
 
-Each project uses **real-world, current datasets**, demonstrating **end-to-end analytics** — from raw data to visualization and actionable insights.
+Applied analytics projects demonstrating enterprise-grade, end-to-end data analysis.
 
-1. 🟢 **Global Innovation Analytics** — Visualizing worldwide adoption trends & regional performance using current data/Real-world data.  (Upcoming)
-2. 🔵 **AI Global Impact** — Analyzing workforce dynamics, innovation, and sustainability trends with current AI datasets.   (Upcoming)
-3. 🟣 **Digital Behavior Analytics** — Understanding real-time user engagement, behavioral shifts, and well-being metrics.  (Upcoming)
+---
+
+## 1️⃣ 🧠 Uno Global AI — Enterprise Analytics & Decision Intelligence (FLAGSHIP)
+
+**End-to-end enterprise analytics system designed from first principles.**  
+Built as a realistic global AI consulting firm to analyze **global innovation, workforce, projects, financials, and strategy** — focused on causality, not dashboards.
+
+🔗 **Project Repo:** https://github.com/KalyanDataGuy/UNOGLOBALAI-ENTERPRISE-ANALYTICS  
+📊 **Skills:** Data Modeling, Workforce Analytics, Financial Analytics, Strategy & Innovation Analytics  
+🧩 **Tools:** Excel, SQL-ready schema, Python-ready model, BI-ready structure
+
+---
+
+## 2️⃣ 🔵 AI Global Impact *(In progress — data prepared)*  
+Workforce, innovation, and sustainability analysis using global AI-related datasets.  
+_Publication pending._
+
+## 3️⃣ 🟣 Digital Behavior Analytics *(In progress — data prepared)*  
+Analysis of user engagement, behavioral shifts, and well-being patterns using real-world data.  
+_Publication pending._
 
